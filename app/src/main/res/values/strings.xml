@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testNfc</string>
+    <string name="nfcMessage">Ndef Message</string>
+    <string name="writeNfc" translatable="false">Write Nfc</string>
+</resources>
